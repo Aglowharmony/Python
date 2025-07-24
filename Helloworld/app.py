@@ -1,3 +1,5 @@
-price = 11001034904
-price = 22222222222
+price = 11
+name = 'smit'
+rating = 4.8
+is_published = False
 print(price)
