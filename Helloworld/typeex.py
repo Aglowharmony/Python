@@ -1,5 +1,5 @@
-Weight = float(input("Type your weight in pounds: "))
-conversion = Weight/2.205
+Weight = input("Type your weight in pounds: ")
+conversion = int(Weight)/2.205
 print(type(conversion))
 print(type(Weight))
-print("converted to KG = " + str(conversion))
+print(conversion)
